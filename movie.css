@@ -1,0 +1,37 @@
+h1{
+    text-align: left;
+    font-size: 60px;
+    height:60px;
+    opacity: 0.5;
+    text-shadow: 2px 2px;
+    text-decoration-line: underline;
+    font-weight:bold;
+}
+
+
+body{
+    background-image: url('https://img.freepik.com/free-photo/arrangement-cinema-elements-bicolor-background-with-copy-space_23-2148457840.jpg?w=1800&t=st=1659040727~exp=1659041327~hmac=67c466825aac8b4014584ec16c69c74cee842852861ce7eb84dd31d561747bcc');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;
+    font-weight:bold;
+}
+a{
+    color: black;
+}
+div.timer{
+    height: 100px;
+    font-weight:bold;
+
+}
+div.descripton{
+    height:60px;
+
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width:650px;
+    height:75px;
+}
